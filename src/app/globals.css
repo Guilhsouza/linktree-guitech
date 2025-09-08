@@ -8,8 +8,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-title: var(--font-russo-one);
+  --font-body: var(--font-jetbrains-mono);
+  --color-darkBlue: #070b29;
 }
 
 @media (prefers-color-scheme: dark) {
