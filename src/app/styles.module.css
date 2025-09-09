@@ -7,3 +7,11 @@
     color: var(--color-darkBlue);
     transition: .3s;
 }
+
+.imageScale {
+    transition: transform 0.3s ease;
+}
+
+.imageScale:hover {
+    transform: scale(1.1);
+}
