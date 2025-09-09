@@ -1,0 +1,9 @@
+.btnStyle {
+    transition: .3s;
+}
+
+.btnStyle:hover {
+    background-color: #ededed;
+    color: var(--color-darkBlue);
+    transition: .3s;
+}
