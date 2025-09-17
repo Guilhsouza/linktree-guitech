@@ -20,13 +20,13 @@ export default function Home() {
         />
         <h1 className="font-title text-center text-yellowLight text-2xl mt-4">Guitech Informática</h1>
 
-        <CardBtn content="WhatsApp" hrefDestiny="https://wa.me/5512991112772" />
+        <CardBtn content="WhatsApp" hrefDestiny="https://wa.me/5512992596529" />
         <CardBtn content="Instagram" hrefDestiny="https://www.instagram.com/guitech_assistencia/" />
         <CardBtn content="Facebook" hrefDestiny="" />
         <CardBtn content="Site" hrefDestiny="" />
       </div>
       <div className="flex justify-center gap-14 mt-4">
-        <a href="https://wa.me/5512991112772" target="_blank">
+        <a href="https://wa.me/5512992596529" target="_blank">
           <Image
             alt="logo-whatsapp"
             src={wppLogo}
